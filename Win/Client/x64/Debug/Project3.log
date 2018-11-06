@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\vatru\source\repos\project3\source.cpp(50): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+c:\users\vatru\source\repos\project3\source.cpp(52): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Project3.vcxproj -> C:\Users\vatru\source\repos\Project3\x64\Debug\Project3.exe
